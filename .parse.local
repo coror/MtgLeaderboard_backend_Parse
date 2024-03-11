@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "MTG-Leaderboard": {
+      "applicationId": "9aUFBwS0LtLZ5iXnQENeYl4SPe6DhknzqSjOrjSS"
+    },
+    "_default": {
+      "link": "MTG-Leaderboard"
+    }
+  }
+}
